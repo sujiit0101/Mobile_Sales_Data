@@ -33,7 +33,7 @@ I used mobile sales data containing information about mobile brands, mobile mode
 
 ## 6. Screenshot
 
-![Mobile Sales Dashboard](dashboard.png)
+![Mobile Sales Dashboard](https://github.com/sujiit0101/Mobile_Sales_Data/blob/main/Dashboard_Screeshot.png)
 
 
 
