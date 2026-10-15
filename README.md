@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Motorola Sales Dashboard](dashboard.png)
+![Mobile Sales Dashboard](dashboard.png)
 
 ## Project Overview
 
